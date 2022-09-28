@@ -1,0 +1,3 @@
+Player did not survive in Knight Room
+Player did not survive in Mage Room
+Player did not survive in Dwarf Room
